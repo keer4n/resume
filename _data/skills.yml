@@ -3,13 +3,13 @@
   description: <code> Java 8, Python, C/C++, Bash, LaTeX, Solidity, SQL, JPQL</code> 
 
 - skill: Web 
-  description: <code> HTML5, CSS3, PHP, Javascript, Jekyll, RESTFul, JSON, RPC, Tomcat, nginx </code>
+  description: <code> HTML5, CSS3, PHP, Javascript, Jekyll, RESTFul, JSON, RPC, Tomcat, nginx, ReactJs</code>
 
 - skill: Databases 
   description: <code> PostgreSQL, MySQL </code>
 
 - skill: Frameworks
-  description: <code> Spring (MVC, Boot), Hibernate, JUnit, SQLAlchemy, Mockito, JDBC </code>
+  description: <code> Spring (MVC, Boot), Hibernate, JUnit, SQLAlchemy, Mockito, JDBC, Flask </code>
 
 - skill: Tools
   description: <code> Vim, Eclipse, Git, Maven, Gradle, VirtualBox, Docker, AWS, Jenkins </code>
